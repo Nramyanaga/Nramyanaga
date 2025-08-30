@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 Hello, I'm Ramyanaga Nagarur!<br>🌟 Welcome to my GitHub profile!<br>I'm passionate about coding, AI, data science and love working on projects that make an impact.<br><br>🔭 Currently working on: Updating my current projects<br>🌱 Learning: Machine Learning and AI<br>🤝 Looking to collaborate on: Anything coding related!<br>💬 Ask me about: Music, dance, and travel<br>⚡ Fun fact: Since I was young I have been learning an Indian Classical Dance called Bharatanatyam!
+👋 Hello, I'm Ramyanaga Nagarur!<br>🌟 Welcome to my GitHub profile!<br>I'm passionate about coding, AI, data science and love working on projects that make an impact.<br><br>🔭 Currently working on: Updating my current projects. Commits were low during Summer 2025 due to working at Disney as SWE intern. <br>🌱 Learning: Machine Learning and AI<br>🤝 Looking to collaborate on: Anything coding related!<br>💬 Ask me about: Music, dance, and travel<br>⚡ Fun fact: Since I was young I have been learning an Indian Classical Dance called Bharatanatyam!
 
 
 ## 🌐 Socials:
